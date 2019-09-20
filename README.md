@@ -1,5 +1,10 @@
 # GIMP-Python-Fu-procedures
 Here is a place to collect Python-Fu scripts, plug-ins, procedures (terminology appears to vary).
+
+GIMP plug-ins live in ```C:\Users\ojars\AppData\Roaming\GIMP\2.10\plug-ins```.
+
+Remember to restart GIMP, if changes are made to the register function. GIMP will see other chnges to the code.
+
 ## reduce_export
 I maintain several web sites, which entails content turnover. Some content comes in PDF form, particularly 8.5 in. by 11 in. flyers. It has become tedious to repeat the operations necessary to convert a flyer to images suitable for a web page. The usual intent is to have an interested user click an image to bring up the full PDF, thereby reducing for most users the quantity of data coming from a server.
 
