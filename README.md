@@ -1,9 +1,9 @@
 # GIMP-Python-Fu-procedures
 Here is a place to collect Python-Fu scripts, plug-ins, procedures (terminology appears to vary).
 
-GIMP plug-ins live in ```C:\Users\ojars\AppData\Roaming\GIMP\2.10\plug-ins```.
-```/home/ojars/.config/GIMP/2.10/plug-ins```.
-```/usr/lib/gimp/2.0/plug-ins```.
+For Windows GIMP plug-ins live in ```C:\Users\ojars\AppData\Roaming\GIMP\2.10\plug-ins```.
+
+For Linux GIMP plug-ins live in ```/home/ojars/.config/GIMP/2.10/plug-ins``` or ```/usr/lib/gimp/2.0/plug-ins```.
 
 Remember to restart GIMP, if changes are made to the register function. GIMP will see other changes to the code.
 
