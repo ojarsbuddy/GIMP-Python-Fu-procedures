@@ -56,13 +56,13 @@ register(
     "Reduce image and export files",
     "Reduce images to 330px high, preserve form factor and save as jpg, png and webp files.",
     "Ojars", "John Bortins", "2020",
-    "Reduce and export",
+    "Reduce height to 330px and export",
     "", # type of image it works on (*, RGB, RGB*, RGBA, GRAY etc...)
     [
         (PF_IMAGE, "image", "takes current image", None),
         (PF_DRAWABLE, "drawable", "Input layer", None)
     ],
     [],
-    reduce_export, menu="<Image>/Ojars")  # second item is menu location
+    height_330, menu="<Image>/Ojars")  # second item is menu location
 
 main()
