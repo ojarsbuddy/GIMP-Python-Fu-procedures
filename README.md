@@ -3,7 +3,7 @@ Here is a place to collect Python-Fu scripts, plug-ins, procedures (terminology 
 
 For Windows GIMP plug-ins live in ```C:\Users\ojars\AppData\Roaming\GIMP\2.10\plug-ins```.
 
-For Linux GIMP plug-ins live in ```/home/ojars/.config/GIMP/2.10/plug-ins``` or ```/usr/lib/gimp/2.0/plug-ins```.
+For Linux GIMP plug-ins live in ```/home/ojars/.config/GIMP/2.10/plug-ins``` or ```/usr/lib/gimp/2.0/plug-ins```. File permissions must be set to allow execution, for example, ```chmod 755 reduce_export.py``` or ```sudo chmod 755 reduce-export.py```.
 
 Remember to restart GIMP, if changes are made to the register function. GIMP will see other changes to the code.
 
