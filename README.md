@@ -8,7 +8,7 @@ For Linux GIMP plug-ins live in ```/home/ojars/.config/GIMP/2.10/plug-ins``` or 
 Remember to restart GIMP, if changes are made to the register function. GIMP will see other changes to the code.
 
 ## fixing missing dependencies
-https://discourse.ubuntu.com/t/gimp-woes-in-20-04/15828/8
+https://discourse.ubuntu.com/t/gimp-woes-in-20-04/15828/8 per Daver1730.
 
 ## reduce_export
 This procedure takes an 850px by 1100px image, reduces same to a standard height while maintaining aspect ratio, and exports the reduced image in PNG, JPEG and WEBP formats.
